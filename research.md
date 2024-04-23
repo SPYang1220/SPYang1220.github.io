@@ -18,6 +18,6 @@ Ruonan Liu and Songpo Yang<br>
     with Naoki Egami and Diana Da In Lee</li>
     <li><strong>"Expansion of Global Value Chains and the Evolution of U.S. Networked Economic Coercion."</strong><br>
     with Fangbo Xia</li>
-    <li><strong>"Facial Traits and Political Selection: A Cross-country Comparison"</strong><br>
+    <li><strong>"Facial Traits and Political Selection: A Cross-country Comparison."</strong><br>
     with Yoshikuni Ono and Yukun Li</li>
 </ul>
