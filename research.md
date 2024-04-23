@@ -14,6 +14,10 @@ Ruonan Liu and Songpo Yang<br>
 <ul>
     <li><strong>"Portraits of Power: Physiognomic Features and the Tacit Domain of Political Selection in China."</strong><br>
     with Junyan Jiang</li>
-    <li><strong>"From Competition to Conviction: Exploring Superstition in China’s Competitive Landscape."</strong><br>
-    with Jianan Du</li>
+    <li><strong>"AI Literacy and Policy Preferences: Evidence from A Cross-country Experimental Study."</strong><br>
+    with Naoki Egami and Diana Da In Lee</li>
+    <li><strong>"Expansion of Global Value Chains and the Evolution of U.S. Networked Economic Coercion."</strong><br>
+    with Fangbo Xia</li>
+    <li><strong>"Facial Traits and Political Selection: A Cross-country Comparison"</strong><br>
+    with Yoshikuni Ono and Yukun Li</li>
 </ul>
