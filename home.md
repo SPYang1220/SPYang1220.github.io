@@ -1,11 +1,11 @@
 ---
 layout: about
-title: Home
+title: Songpo Yang (杨松坡)
 ---
 
-Greetings! I'm Songpo Yang (杨松坡). I am a Ph.D. candidate in the Department of International Relations at Tsinghua University, and also a visiting Ph.D. student in the Department of Political Science at Columbia University, New York City, 2022–2023. 
+Greetings! I am a Ph.D. candidate in the Department of International Relations at Tsinghua University, and also a visiting Ph.D. student in the Department of Political Science at Columbia University, New York City, 2022–2023. 
 
-My research encompasses a range of topics including political leadership, political selection, China’s foreign policy and state–business relations. My work has been published on [***International Affairs***](https://academic.oup.com/ia/article-abstract/99/4/1383/7216720?redirectedFrom=fulltext). 
+My research encompasses a range of topics including comparative political economy, political selection, AI and Chinese politics. I'm also broadly interested in quantitative and computational methods in social sciences. My work has been published on [***International Affairs***](https://academic.oup.com/ia/article-abstract/99/4/1383/7216720?redirectedFrom=fulltext). 
 
 I hold an M.A. from Johns Hopkins SAIS, an M.L. from Tsinghua university, and a BA from University of International Business and Economics. I also worked at CITIC Securites Asset Management before getting back to Tsinghua to pursue my doctoral degree.
 
