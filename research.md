@@ -12,7 +12,7 @@ Ruonan Liu and Songpo Yang<br>
 
 <h3>Working Papers</h3>
 <ul>
-    <li><strong>"Portraits of Power: Facial Features and the Tacit Domain of Political Selection in China."</strong><br>
+    <li><strong>"Portraits of Power: Facial Appearances and the Tacit Domain of Political Selection in China."</strong><br> <a href="https://osf.io/preprints/socarxiv/c2nd5_v1" target="_blank"><strong>Link</strong></a></p>
     with Junyan Jiang</li>
     <li><strong>"AI Literacy and Policy Preferences: Evidence from A Cross-country Experimental Study."</strong><br>
     with Naoki Egami and Diana Da In Lee</li>
