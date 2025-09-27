@@ -22,7 +22,6 @@ order: 1
         </a><br>
         with Junyan Jiang. (2025).<br>
         Revise and Resubmit at <strong><em>American Political Science Review</em><strong>
-    </li>
     <li><strong>"AI Literacy and Policy Preferences: Evidence from A Cross-country Experimental Study."</strong><br>
     with Naoki Egami and Diana Da In Lee.</li>
     <li><strong>"From Text Haystacks to Data Tables: Evaluating LLM-Based Systems for Structured Information Extraction in Political Elite Research."</strong><br>
