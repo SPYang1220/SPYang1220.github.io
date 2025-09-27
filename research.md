@@ -22,14 +22,17 @@ order: 1
         </a><br>
         with Junyan Jiang. (2025).<br>
         Revise and Resubmit at <strong><em>American Political Science Review</em><strong>
-    <li><strong>"AI Literacy and Policy Preferences: Evidence from A Cross-country Experimental Study."</strong><br>
-    with Naoki Egami and Diana Da In Lee.</li>
-    <li><strong>"From Text Haystacks to Data Tables: Evaluating LLM-Based Systems for Structured Information Extraction in Political Elite Research."</strong><br>
-    with Yifei Zhu, Jiangnan Zhu, and Junyan Jiang.</li>
-    <li><strong>"Spontaneous Outburst or Strategic Signal? Legislative Emotions in South Korea."</strong><br>
-    with Haejo Kang.</li>
+    </li>
+    <li>
+        <strong>"AI Literacy and Policy Preferences: Evidence from A Cross-country Experimental Study."</strong><br>
+        with Naoki Egami and Diana Da In Lee.
+    </li>
+    <li>
+        <strong>"From Text Haystacks to Data Tables: Evaluating LLM-Based Systems for Structured Information Extraction in Political Elite Research."</strong><br>
+        with Yifei Zhu, Jiangnan Zhu, and Junyan Jiang.
+    </li>
+    <li>
+        <strong>"Spontaneous Outburst or Strategic Signal? Legislative Emotions in South Korea."</strong><br>
+        with Haejo Kang.
+    </li>
 </ul>
-
-<a href="https://academic.oup.com/ia/article-abstract/99/4/1383/7216720?redirectedFrom=fulltext" target="_blank">
-            <strong>1. "China and the Liberal International Order: A Pragmatic and Dynamic Approach."</strong>
-        </a><br>
