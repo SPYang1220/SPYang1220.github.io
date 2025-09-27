@@ -21,18 +21,12 @@ order: 1
             <strong>"Portraits of Power: Facial Appearances and the Tacit Domain of Political Selection in China."</strong>
         </a><br>
         with Junyan Jiang. (2025).<br>
-        Revise and Resubmit at <strong><em>American Political Science Review</em><strong>
+        Revise and Resubmit at <strong><em>American Political Science Review</em></strong>
     </li>
-    <li>
-        <strong>"AI Literacy and Policy Preferences: Evidence from A Cross-country Experimental Study."</strong><br>
-        with Naoki Egami and Diana Da In Lee.
-    </li>
-    <li>
-        <strong>"From Text Haystacks to Data Tables: Evaluating LLM-Based Systems for Structured Information Extraction in Political Elite Research."</strong><br>
-        with Yifei Zhu, Jiangnan Zhu, and Junyan Jiang.
-    </li>
-    <li>
-        <strong>"Spontaneous Outburst or Strategic Signal? Legislative Emotions in South Korea."</strong><br>
-        with Haejo Kang.
-    </li>
+    <li><strong>"AI Literacy and Policy Preferences: Evidence from A Cross-country Experimental Study."</strong><br>
+    with Naoki Egami and Diana Da In Lee.</li>
+    <li><strong>"From Text Haystacks to Data Tables: Evaluating LLM-Based Systems for Structured Information Extraction in Political Elite Research."</strong><br>
+    with Yifei Zhu, Jiangnan Zhu, and Junyan Jiang.</li>
+    <li><strong>"Spontaneous Outburst or Strategic Signal? Legislative Emotions in South Korea."</strong><br>
+    with Haejo Kang.</li>
 </ul>
