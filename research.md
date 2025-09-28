@@ -20,7 +20,7 @@ order: 1
         <a href="https://osf.io/preprints/socarxiv/c2nd5_v1" target="_blank">
             <strong>"Portraits of Power: Facial Appearances and the Tacit Domain of Political Selection in China."</strong>
         </a><br>
-        with Junyan Jiang. (2025).<br>
+        with Junyan Jiang. <br>
         Revise and Resubmit at <strong><em>American Political Science Review</em></strong>
     </li>
     <li><strong>"AI Literacy and Policy Preferences: Evidence from A Cross-country Experimental Study."</strong><br>
