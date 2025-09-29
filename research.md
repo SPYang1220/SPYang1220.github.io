@@ -17,7 +17,7 @@ order: 1
 <h3>Working Papers</h3>
 <ul>
     <li>
-        <a href="https://osf.io/preprints/socarxiv/c2nd5_v1" target="_blank">
+        <a href="/assets/pdfs/JiangYang_Face.pdf" target="_blank">
             <strong>"Portraits of Power: Facial Appearances and the Tacit Domain of Political Selection in China."</strong>
         </a><br>
         with Junyan Jiang. <br>
