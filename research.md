@@ -7,7 +7,7 @@ order: 1
 ---
 <h3>Publications</h3>
 <p>
-    <a href="https://academic.oup.com/ia/article-abstract/99/4/1383/7216720?redirectedFrom=fulltext" target="_blank">
+    <a href="/assets/pdfs/INTA99_4_LiuYang.pdf" target="_blank">
         <strong>1. “China and the Liberal International Order: A Pragmatic and Dynamic Approach.”</strong>
     </a><br>
     with Ruonan Liu. (2023).<br>
