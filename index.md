@@ -9,7 +9,6 @@ My research encompasses a range of topics including comparative political econom
 
 I hold an M.A. from Johns Hopkins SAIS, an M.L. from Tsinghua university, and a BA from University of International Business and Economics. I also worked at CITIC Securites Asset Management before getting back to Tsinghua to pursue my doctoral degree.
 
-I enjoy snowboarding on vacation and playing basketball every week. I'm a car fan and I LOVE driving. 
 <br><br> 
 <head>
     <link href="assets/css/drcustom.css" rel="stylesheet" type="text/css">
