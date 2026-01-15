@@ -3,11 +3,11 @@ layout: about
 title: Songpo Yang (杨松坡)
 ---
 
-Greetings! I am a Ph.D. candidate in the Department of International Relations at Tsinghua University, and also a visiting Ph.D. student in the Department of Political Science at Columbia University, New York City, 2022–2023. 
+Greetings! I am a Boya Post-doctoral Fellow in the School of International Studies at Peking University. My research encompasses a range of topics including global governance, elite politics, and Chinese politics. I'm also broadly interested in applying AI-driven methods with multimodal data in social sciences. 
 
-My research encompasses a range of topics including comparative political economy, elite politics, and Chinese politics. I'm also broadly interested in applying AI-driven methods with multimodal data in social sciences. My work has been published on [***International Affairs***](https://academic.oup.com/ia/article-abstract/99/4/1383/7216720?redirectedFrom=fulltext). 
+My work has been published on [***International Affairs***](https://academic.oup.com/ia/article-abstract/99/4/1383/7216720?redirectedFrom=fulltext). 
 
-I hold an M.A. from Johns Hopkins SAIS, an M.L. from Tsinghua university, and a BA from University of International Business and Economics. I also worked at CITIC Securites Asset Management before getting back to Tsinghua to pursue my doctoral degree.
+I receive my PhD in political science from Tsinghua University and was a visiting Ph.D. student in the Department of Political Science at Columbia University, New York City, 2022–2023. I also hold an M.A. from Johns Hopkins SAIS, an M.L. from Tsinghua university, and a BA from University of International Business and Economics. I worked at CITIC Securites Asset Management before getting back to Tsinghua to pursue my doctoral degree. 
 
 <br><br> 
 <head>

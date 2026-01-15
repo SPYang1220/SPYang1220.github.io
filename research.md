@@ -25,8 +25,8 @@ order: 1
     </li>
     <li><strong>"AI Literacy and Policy Preferences: Evidence from A Cross-country Experimental Study."</strong><br>
     with Naoki Egami and Diana Da In Lee.</li>
-    <li><strong>"From Text Haystacks to Data Tables: Evaluating LLM-Based Systems for Structured Information Extraction in Political Elite Research."</strong><br>
-    with Yifei Zhu, Jiangnan Zhu, and Junyan Jiang.</li>
+    <li><strong>"Dataframes in text haystacks: Automated framework for Political Facts extraction using LLMs."</strong><br>
+    with Yifei Zhu, and Jiangnan Zhu.</li>
     <li><strong>"Spontaneous Outburst or Strategic Signal? Legislative Emotions in South Korea."</strong><br>
     with Haejo Kang.</li>
 </ul>
