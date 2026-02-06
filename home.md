@@ -3,11 +3,14 @@ layout: about
 title: Songpo Yang (杨松坡)
 ---
 
-Greetings! I am a Boya Post-doctoral Fellow in the School of International Studies at Peking University. My research encompasses a range of topics including global governance, elite politics, and Chinese politics. I'm also broadly interested in applying AI-driven methods with multimodal data in social sciences. 
+Greetings! 
 
-My work has been published on [***International Affairs***](https://academic.oup.com/ia/article-abstract/99/4/1383/7216720?redirectedFrom=fulltext). 
+I am a Boya Postdoctoral Fellow at the [School of International Studies，Peking University](https://www.sis.pku.edu.cn/en/). At PKU, I primarily work with Xun Pang on interdisciplinary research at the intersection of social science and artificial intelligence, and I serve as Assistant Director of the [PKU Analytics Lab for Global Risk Politics](https://riskalab.pku.edu.cn/en/).
 
-I receive my PhD in political science from Tsinghua University and was a visiting Ph.D. student in the Department of Political Science at Columbia University, New York City, 2022–2023. I also hold an M.A. from Johns Hopkins SAIS, an M.L. from Tsinghua university, and a BA from University of International Business and Economics. I worked at CITIC Securites Asset Management before getting back to Tsinghua to pursue my doctoral degree. 
+I obtained my PhD in political science from [the Department of International Relations, Tsinghua University](https://www.dir.tsinghua.edu.cn/iren/) and was a visiting PhD student in the [Department of Political Science at Columbia University](https://polisci.columbia.edu/) from September 2022 to October 2023. During my time at Columbia, I was advised by [Junyan Jiang](https://www.junyanjiang.com/) and [Naoki Egami](https://naokiegami.com/index.html). I also hold an M.A. from [Johns Hopkins SAIS](https://sais.jhu.edu/), an M.L. from [Tsinghua university](https://www.dir.tsinghua.edu.cn/iren/), and a BA from the [University of International Business and Economics](https://english.uibe.edu.cn/). Prior to pursuing my doctoral studies, I worked at [CITIC Securites Asset Management](https://www.cs.ecitic.com/newsite/en/companyWebsite/assetManagement/). 
+
+My research spans global governance, elite politics, and Chinese politics, with a broader interest in applying AI-driven and multimodal methods to questions in the social sciences. My work has been published on <em>American Political Science Review</em>, <em>International Affairs</em>, among others.
+
 <br><br> 
 <head>
     <link href="assets/css/drcustom.css" rel="stylesheet" type="text/css">
@@ -34,11 +37,3 @@ I receive my PhD in political science from Tsinghua University and was a visitin
 </pre>
 </div>
 
-[Meta Reality Labs]: https://about.meta.com/realitylabs/
-[Information School]: https://ischool.uw.edu/
-[Jacob O. Wobbrock]: http://faculty.washington.edu/wobbrock/
-[ACE Lab]: http://depts.washington.edu/acelab/
-[Dr. Chun Yu]: http://pi.cs.tsinghua.edu.cn/lab/people/ChunYu/
-[Zhihu]: https://www.zhihu.com/people/drustz
-[featured news]: https://ischool.uw.edu/news/2022/05/your-fingers-are-keyboard-phd-candidate-builds-innovative-tool
-[short profile]: https://ischool.uw.edu/programs/phd/people/students/zhang

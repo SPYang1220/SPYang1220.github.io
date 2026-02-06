@@ -10,7 +10,8 @@ I'm regularly looking for (paid) research assistants to help with data collectio
 <h3>About my research topics</h3>
 <ul>
 <Li>Facial characteristics and political behaviors: how (perceptions of) facial characteristics of political leaders affect their promotions, survivals and policy preferences, etc.</Li>
-<Li>Irrational factors and political behaviors: how irrational factors drive interactions between different political players.</Li>
+<Li>Applying multi-modal data to study political behaviors.</Li>
+<Li>Building comprehensive longitudinal database of global political elites.</Li>
 </ul>
 
 <h3>Preferred partners</h3>

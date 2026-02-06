@@ -7,6 +7,13 @@ order: 1
 ---
 <h3>Publications</h3>
 <p>
+    <a href="/assets/pdfs/JiangYang_Face.pdf" target="_blank">
+            <strong>"Portraits of Power: Facial Appearances and the Tacit Domain of Political Selection in China."</strong>
+    </a><br>
+    with Junyan Jiang. <br>
+    <strong><em>American Political Science Review</em></strong> (Conditionally Accepted)
+</p>
+<p>
     <a href="/assets/pdfs/INTA99_4_LiuYang.pdf" target="_blank">
         <strong>1. “China and the Liberal International Order: A Pragmatic and Dynamic Approach.”</strong>
     </a><br>
@@ -16,13 +23,6 @@ order: 1
 
 <h3>Working Papers</h3>
 <ul>
-    <li>
-        <a href="/assets/pdfs/JiangYang_Face.pdf" target="_blank">
-            <strong>"Portraits of Power: Facial Appearances and the Tacit Domain of Political Selection in China."</strong>
-        </a><br>
-        with Junyan Jiang. <br>
-        <strong><em>American Political Science Review</em></strong> (Conditionally Accepted)
-    </li>
     <li><strong>"AI Literacy and Policy Preferences: Evidence from A Cross-country Experimental Study."</strong><br>
     with Naoki Egami and Diana Da In Lee.</li>
     <li><strong>"Dataframes in text haystacks: Automated framework for Political Facts extraction using LLMs."</strong><br>
