@@ -21,7 +21,7 @@ order: 1
             <strong>"Portraits of Power: Facial Appearances and the Tacit Domain of Political Selection in China."</strong>
         </a><br>
         with Junyan Jiang. <br>
-        Revise and Resubmit at <strong><em>American Political Science Review</em></strong>
+        <strong><em>American Political Science Review</em></strong> (Conditionally Accepted)
     </li>
     <li><strong>"AI Literacy and Policy Preferences: Evidence from A Cross-country Experimental Study."</strong><br>
     with Naoki Egami and Diana Da In Lee.</li>
