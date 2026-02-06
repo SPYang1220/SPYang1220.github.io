@@ -181,12 +181,10 @@ a[href^="http"]::after {
 }
 
 /* Academic-style link color */
-a {
-  color: #2c4e75 !important;
-  text-decoration: none;
+.page-content a {
+  color: #17559c !important;
 }
 
-a:hover {
-  color: #1f3a5a !important;
-  text-decoration: underline;
+.page-content a:hover {
+  color: #17559c !important;
 }
