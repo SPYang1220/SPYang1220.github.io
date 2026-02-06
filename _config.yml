@@ -26,7 +26,7 @@ author:
   email:             yangsp21@mails.tsinghua.edu.cn
 
 # Fallback image and color
-image:               https://raw.githubusercontent.com/SPYang1220/SPYang1220.github.io/733aa429b76ae0ece233850ea37f9b02b9ba6e32/assets/img/background.png
+image:               /Users/yangsongpo/Desktop/R/website/thuysp.github.io/assets/img/background.png
 color:               '#b6d1fa'
 
 # # Headings (titles, section headers)
