@@ -29,14 +29,18 @@ author:
 image:               https://raw.githubusercontent.com/SPYang1220/SPYang1220.github.io/733aa429b76ae0ece233850ea37f9b02b9ba6e32/assets/img/Background.png
 color:               '#f6b26b'
 
-# Headings (titles, section headers)
+# # Headings (titles, section headers)
+# font_heading: "'Source Sans 3', Helvetica, Arial, sans-serif"
+
+# # Body text (paragraphs, abstracts)
+# font: "'Source Sans 3', Helvetica, Arial, sans-serif"
+
+# # Google Fonts import
+# google_fonts: Source+Sans+3:400,400i,500,600,700
+
 font_heading: "'Source Sans 3', Helvetica, Arial, sans-serif"
-
-# Body text (paragraphs, abstracts)
-font: "'Source Sans 3', Helvetica, Arial, sans-serif"
-
-# Google Fonts import
-google_fonts: Source+Sans+3:400,400i,500,600,700
+font: "'IBM Plex Sans', Helvetica, Arial, sans-serif"
+google_fonts: Source+Sans+3:600,700|IBM+Plex+Sans:400,400i,500
 
 # If you do not use a Google Fonts, uncomment the line below
 # no_google_fonts:     true
