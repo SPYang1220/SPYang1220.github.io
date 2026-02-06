@@ -182,9 +182,9 @@ a[href^="http"]::after {
 
 /* Academic-style link color */
 .page-content a {
-  color: #17559c !important;
+  color: #2072cfab !important;
 }
 
 .page-content a:hover {
-  color: #17559c !important;
+  color: #2072cfab !important;
 }
