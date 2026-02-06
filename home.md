@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Songpo Yang (杨松坡)
+title: Songpo Yang <span class="zh-name">（杨松坡）</span>
 ---
 
 Greetings! 

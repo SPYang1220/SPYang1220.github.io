@@ -167,3 +167,27 @@ img.dark {
 .ascii {
   background-color: transparent !important;
 }
+
+/* Chinese name in Kai-style font */
+.zh-name {
+  font-family: "Kaiti SC", "STKaiti", "KaiTi", serif;
+  font-size: 0.95em;
+}
+
+/* Disable external link icon (Hydejack) */
+a.external::after,
+a[href^="http"]::after {
+  display: none !important;
+  content: none !important;
+}
+
+/* Academic-style link color */
+a {
+  color: #2c4e75 !important;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #1f3a5a !important;
+  text-decoration: underline;
+}
