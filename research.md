@@ -12,14 +12,14 @@ order: 1
     <a href="/assets/pdfs/JiangYang_Face.pdf" target="_blank">
         <strong>2. “Portraits of Power: Facial Appearances and the Tacit Domain of Political Selection in China.”</strong>
     </a><br>
-    with Junyan Jiang. <br>
+    with <a href="https://www.junyanjiang.com/" target="_blank">Junyan Jiang.</a>.<br>
     <strong><em>American Political Science Review</em></strong> (Conditionally Accepted)
 </p>
 
 <div class="abstract">
     <strong>Abstract:</strong>
     <p>
-        As the epitome of modern, rational organizations, bureaucracies are often believed to select candidates based on rules and reason. We argue that intuitive---and even instinctive---assessments of candidates' external appearances sometimes underpin seemingly rational and calculated decisions. Using a novel, AI-based algorithm that learns and reproduces human assessments of facial appearances at scale, we examine how perceived facial traits influence the careers of over 4,000 mid- and senior-level Chinese officials.  We find that officials who look more competent, trustworthy, and less aggressive enjoy significantly better promotion prospects and lower purge risk than their peers. Warmth-related traits (e.g., trustworthiness and non-aggressiveness) are especially valued at higher-level promotions and for male candidates. Additional analyses, including conjoint experiments with real officials, demonstrate that appearances' influence over selection preferences is comparable to performance or political connections. These findings challenge the prevailing meritocratic and relation-based theories of bureaucratic selection and highlight the role of impressions in the workings of government institutions.
+        As the epitome of modern, rational organizations, bureaucracies are often believed to select candidates based on rules and reason. We argue that intuitive-and even instinctive-assessments of candidates' external appearances sometimes underpin seemingly rational and calculated decisions. Using a novel, AI-based algorithm that learns and reproduces human assessments of facial appearances at scale, we examine how perceived facial traits influence the careers of over 4,000 mid- and senior-level Chinese officials.  We find that officials who look more competent, trustworthy, and less aggressive enjoy significantly better promotion prospects and lower purge risk than their peers. Warmth-related traits (e.g., trustworthiness and non-aggressiveness) are especially valued at higher-level promotions and for male candidates. Additional analyses, including conjoint experiments with real officials, demonstrate that appearances' influence over selection preferences is comparable to performance or political connections. These findings challenge the prevailing meritocratic and relation-based theories of bureaucratic selection and highlight the role of impressions in the workings of government institutions.
     </p>
 </div>
 
@@ -27,7 +27,7 @@ order: 1
     <a href="/assets/pdfs/INTA99_4_LiuYang.pdf" target="_blank">
         <strong>1. “China and the Liberal International Order: A Pragmatic and Dynamic Approach.”</strong>
     </a><br>
-    with Ruonan Liu. (2023).<br>
+    with <a href="https://sir.uibe.edu.cn/english/faculty/international/70293.htm" target="_blank">Ruonan Liu</a>. (2023).<br>
     <em><strong>International Affairs</strong></em>, Vol. 99, No. 4, pp. 1383–1400.
 </p>
 
@@ -43,7 +43,10 @@ order: 1
 <ul>
     <li>
         <strong>“Dataframes in Text Haystacks: An Automated Framework for Political Facts Extraction Using LLMs.”</strong><br>
-        with Yifei Zhu, Jiangnan Zhu, and Junyan Jiang.
+        with 
+        <a href="https://ppa.hku.hk/people/zhu-yifei/" target="_blank">Yifei Zhu</a>, 
+        <a href="https://jiangnanzhu.com/" target="_blank">Jiangnan Zhu</a>, 
+        and <a href="https://ppa.hku.hk/people/professor-zhu-jiangnan-%E6%9C%B1%E6%B1%9F%E5%8D%97/" target="_blank">Junyan Jiang</a>.
         <div class="abstract">
             <strong>Abstract:</strong>
             <p>
@@ -64,7 +67,8 @@ order: 1
 
     <li>
         <strong>“Spontaneous Outburst or Strategic Signal? Legislative Emotions in South Korea.”</strong><br>
-        with Haejo Kang.
+        with 
+        <a href="https://orcid.org/0000-0003-3011-6648" target="_blank">Haejo Kang</a>.
         <div class="abstract">
             <strong>Abstract:</strong>
             <p>
