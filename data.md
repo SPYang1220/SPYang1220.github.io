@@ -6,12 +6,18 @@ menu: true
 order: 2
 ---
 
-<div style="background:#f4f4f4; padding:12px 18px; border-radius:6px; font-size:0.95em; margin-bottom:2em;">
+<div style="background:#f4f4f4; padding:14px 20px; border-radius:6px; font-size:0.95em; margin-bottom:2em;">
 
-<strong>Data & Replication Policy</strong><br>
+<strong>Data & Replication Policy</strong>
 
-- Replication materials necessary to reproduce published findings will be made publicly available upon article publication, in accordance with journal requirements.
-- For access to more detailed datasets, ongoing projects, or collaboration inquiries, please contact me via email.
+<ul style="margin-top:0.6em; padding-left:1.2em; margin-bottom:0;">
+  <li>
+    Replication materials necessary to reproduce published findings will be made publicly available upon article publication, in accordance with journal requirements.
+  </li>
+  <li>
+    For access to more detailed datasets, ongoing projects, or collaboration inquiries, please contact me via email.
+  </li>
+</ul>
 
 </div>
 
