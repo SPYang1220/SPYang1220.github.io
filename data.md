@@ -10,11 +10,12 @@ order: 2
 
 <strong>Data & Replication Policy</strong><br>
 
-Replication materials necessary to reproduce published findings will be made publicly available upon article publication, in accordance with journal requirements.<br>
-
-For access to more detailed datasets, ongoing projects, or collaboration inquiries, please contact me via email.
+- Replication materials necessary to reproduce published findings will be made publicly available upon article publication, in accordance with journal requirements.
+- For access to more detailed datasets, ongoing projects, or collaboration inquiries, please contact me via email.
 
 </div>
+
+---
 
 # I. The Face of Political Elites
 
@@ -35,7 +36,7 @@ From: *Portraits of Power: Facial Appearances and the Tacit Domain of Political 
 This dataset enables analysis of how perceived facial traits predict political survival and promotion in authoritarian bureaucracies.
 
 **2. Elite Affective Expression Dataset (China – Hierarchical Emotional Discipline)**  
-From: *The Disciplined Face of Power: Affective Signaling and Hierarchical Rule in China.* （Working paper)
+From: *The Disciplined Face of Power: Affective Signaling and Hierarchical Rule in China.*（Working paper)
 
 - 20,000+ video appearances of Chinese officials  
 - Frame-level facial affect extraction using deep neural networks  
@@ -44,7 +45,7 @@ From: *The Disciplined Face of Power: Affective Signaling and Hierarchical Rule 
 This dataset examines how emotional discipline functions as an informal signaling mechanism within bureaucratic hierarchies.
 
 **3. Legislative Emotional Performance Dataset (South Korea – Electoral Accountability)**  
-From: *Spontaneous Outburst or Strategic Signal? Legislative Emotions in South Korea*（Working paper)
+From: *Spontaneous Outburst or Strategic Signal? Legislative Emotions in South Korea.*（Working paper)
 
 - Full universe of plenary sessions (784 sessions; 1,750+ hours) of the Korean National Assembly, 2010–2025  
 - Automated video-based emotion recognition applied to parliamentary debate recordings  
@@ -56,7 +57,7 @@ This dataset enables analysis of how electoral accountability incentives shape s
 
 ### 1. Facial Appearance and Political Selection
 From: *Portraits of Power: Facial Appearances and the Tacit Domain of Political Selection in China*  
-(American Political Science Review, Conditionally Accepted)
+(<strong><em>American Political Science Review</em></strong>, Conditionally Accepted)
 
 **Average Faces by Facial Rating and Gender**
 
