@@ -31,7 +31,7 @@ Across different political contexts, I construct original large-scale multimodal
 
 ## Data Infrastructure
 
-**1. Elite Facial Image Dataset (China – Political Promotion and Purge Risk)**  
+**1. Elite Facial Image Dataset (China – Political Selection)**  
 From: *Portraits of Power: Facial Appearances and the Tacit Domain of Political Selection in China.* (APSR, Conditionally Accepted)
 
 - 4,000+ mid- and senior-level Chinese officials, 2000-2022  
