@@ -39,7 +39,7 @@ From: *Portraits of Power: Facial Appearances and the Tacit Domain of Political 
 - Linked to detailed career histories, promotion timing, and purge outcomes  
 - Machine-estimated facial traits (competence, trustworthiness, aggressiveness, attractiveness) using a deep-learning model trained to replicate human evaluations  
 
-This dataset enables analysis of how perceived facial traits predict political survival and promotion in authoritarian bureaucracies.
+This dataset enables analysis of how perceived facial traits predict political selection in authoritarian bureaucracies.
 
 **2. Elite Affective Expression Dataset (China – Hierarchical Emotional Discipline)**  
 From: *The Disciplined Face of Power: Affective Signaling and Hierarchical Rule in China.*（Working paper)
