@@ -42,11 +42,11 @@ order: 1
 
 <ul>
     <li>
-        <strong>“Dataframes in Text Haystacks: An Automated Framework for Political Facts Extraction Using LLMs.”</strong><br>
+        <strong>“Agentic Framework for Political Biography Extraction.”</strong><br>
         with 
         <a href="https://ppa.hku.hk/people/zhu-yifei/" target="_blank">Yifei Zhu</a>, 
-        <a href="https://jiangnanzhu.com/" target="_blank">Jiangnan Zhu</a>, 
-        and <a href="https://ppa.hku.hk/people/professor-zhu-jiangnan-%E6%9C%B1%E6%B1%9F%E5%8D%97/" target="_blank">Junyan Jiang</a>.
+        <a href="https://ppa.hku.hk/people/professor-zhu-jiangnan-%E6%9C%B1%E6%B1%9F%E5%8D%97/" target="_blank">Jiangnan Zhu</a>, 
+        and <a href="https://www.junyanjiang.com/" target="_blank">Junyan Jiang</a>.
         <div class="abstract">
             <strong>Abstract:</strong>
             <p>
