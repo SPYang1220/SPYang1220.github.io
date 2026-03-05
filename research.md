@@ -42,6 +42,7 @@ order: 1
 
 <ul>
     <li>
+    <a href="/assets/pdfs/political_fact_extraction_20260305.pdf" target="_blank">
         <strong>“Agentic Framework for Political Biography Extraction.”</strong><br>
         with 
         <a href="https://ppa.hku.hk/people/zhu-yifei/" target="_blank">Yifei Zhu</a>, 
@@ -50,7 +51,7 @@ order: 1
         <div class="abstract">
             <strong>Abstract:</strong>
             <p>
-                The production of large-scale political datasets typically demands extracting structured facts from vast piles of unstructured documents or web sources, a task that traditionally relies on expensive human experts and remains prohibitively difficult to automate at scale. In this paper, we leverage Large Language Models (LLMs) to automate the extraction of multi-dimensional elite biographies, addressing a long-standing bottleneck in political science research. We propose a two-stage “Synthesis-Coding” framework for complex extraction task: an upstream synthesis stage that uses recursive agentic LLMs to search, filter, and curate biography from heterogeneous web sources, followed by a downstream coding stage that maps curated biography into structured dataframes. We validate this framework through three primary results. First, we demonstrate that, when given curated contexts, LLM coders match or outperform human experts in extraction accuracy. Second, we show that in web environments, the agentic system synthesizes more information from web resources than human collective intelligence (Wikipedia). Finally, we diagnosed that directly coding from long and multi-language corpora introduces bias that the synthesis stage can alleviate by curating evidence into signal-dense representations. By comprehensive evaluation, We provide a generalizable, scalable framework for building transparent and expansible large scale database in political science.
+                Producing large-scale political datasets demands extracting structured facts from unstructured sources, traditionally relying on expensive human experts and resisting at-scale automation. This paper develops and evaluates large language model (LLM)-based solutions to this bottleneck, focusing on elite biographies, one consequential class of political facts. We propose a two-stage ``Synthesis--Coding'' framework: LLM agents first search, filter, and curate evidence from heterogeneous web sources, then map curated inputs into structured records. We validate the framework across Chinese, American, and OECD political elites, benchmarking performance against human baselines using multiple state-of-the-art LLMs. We find that LLM coders match or exceed human experts when given curated inputs, and that agentic synthesis substantially outperforms human collective curation (Wikipedia) in open-web environments. We further identify a systematic bias: directly coding from long, multilingual corpora degrades extraction quality, and demonstrate that the synthesis stage mitigates this bias by compressing evidence into signal-dense representations.
             </p>
         </div>
     </li>
