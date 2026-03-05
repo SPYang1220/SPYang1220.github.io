@@ -43,7 +43,8 @@ order: 1
 <ul>
     <li>
     <a href="/assets/pdfs/political_fact_extraction_20260305.pdf" target="_blank">
-        <strong>“Agentic Framework for Political Biography Extraction.”</strong><br>
+        <strong>“Agentic Framework for Political Biography Extraction.”</strong>
+        </a><br>
         with 
         <a href="https://ppa.hku.hk/people/zhu-yifei/" target="_blank">Yifei Zhu</a>, 
         <a href="https://ppa.hku.hk/people/professor-zhu-jiangnan-%E6%9C%B1%E6%B1%9F%E5%8D%97/" target="_blank">Jiangnan Zhu</a>, 
