@@ -23,7 +23,7 @@ description:
 # This should be the same author as first entry in `_data/authors.yml`
 author:
   name:              Songpo Yang
-  email:             yangsp21@mails.tsinghua.edu.cn
+  email:             yangsp@pku.edu.cn
 
 # Fallback image and color
 image:               /assets/img/Background.png

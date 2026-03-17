@@ -65,6 +65,17 @@ order: 1
                 Existing theories of authoritarian durability focus on formal institutions of control, such as personnel management and propaganda, largely overlooking the informal behavioral norms that sustain elite cohesion. This paper argues that authoritarian control is sustained, in part, through a pervasive regime of “bureaucratic affect”—a set of unwritten yet strictly enforced norms governing the emotional expressions of political elites. We posit that these affective norms solve a critical principal-agent problem: emotional discipline serves as a credible signal of an official’s effort, reliability, and political conformity within an information-scarce hierarchy. To test this theory, I apply deep learning to an original dataset of over 20,000 video appearances of Chinese officials. My findings reveal a clear affective hierarchy consistent with a principal-agent dynamic. First, higher-ranking officials (principals) consistently display greater emotional calmness, embodying the "face of the state." Second, lower-ranking officials (agents) strategically display context-appropriate emotions—such as greater stress in high-pressure roles—to signal their effort and diligence. Finally, preliminary analysis shows that mastering this affective signaling correlates with positive career trajectories, suggesting it is a rewarded, informal criterion for political survival. These findings reveal a critical micro-foundation of hierarchical political control, demonstrating how affective regulation enhances state capacity and elite cohesion.
             </p>
         </div>
+    
+    </li>
+
+        <li>
+        <strong>“Winners Take All: Performance Targets, Bureaucratic Momentum, and Stratified Economic Growth in China.”</strong><br>
+        <div class="abstract">
+            <strong>Abstract:</strong>
+            <p>
+                Target-based governance systems are a defining feature of state capacity in China and beyond, yet the causal dynamics they trigger beyond immediate incentives remain underexplored. Moving beyond the static "promotion tournament" view, I argue that target fulfillment acts as a critical threshold that generates a "dual momentum"—both material and cognitive—stratifying local development trajectories. Using a regression discontinuity design on data from Chinese cities (2002–2023), I provide causal evidence that barely meeting a GDP target significantly accelerates a locality's subsequent economic growth. I unpack this black box through two distinct mechanisms. First, consistent with a resource allocation logic, success serves as a credible signal that unlocks investment and emboldens officials to ratchet up future aspirations. Second, using automated text analysis, I identify a strategic attribution mechanism: "winners" adopt a technocratic orientation focusing on structural reforms, whereas "losers" engage in blame avoidance by attributing failures to exogenous shocks. Crucially, this momentum is context-dependent: the growth premium is amplified when local agents outperform peers but attenuated when superiors themselves face less performance pressure. These findings reveal how targets generate a cumulative advantage, explaining the strategic stratification of local state capacity in hierarchical bureaucracies.
+            </p>
+        </div>
     </li>
 
     <li>
