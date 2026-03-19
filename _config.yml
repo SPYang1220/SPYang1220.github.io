@@ -6,7 +6,7 @@ title:               Songpo Yang
 
 # The unique resource location of your page.
 # Set to `https://<username>.github.io` when hosting on GitHub Pages
-url:                 https://spyang1220.github.io/
+url:                 https://SPYang1220.github.io/
 
 # Set to '' when hosting a blog on GitHub Pages, ie on `//<username>.github.io`
 # Set to '/<reponame>' when using the `gh-pages` branch of a repository
@@ -40,7 +40,9 @@ color:               '#81aff0'
 
 font_heading: "'Source Sans 3', Helvetica, Arial, sans-serif"
 font: "'IBM Plex Sans', Helvetica, Arial, sans-serif"
-google_fonts: Source+Sans+3:600,700|IBM+Plex+Sans:400,400i,500
+google_fonts: Source+Sans+3:600,700
+
+# |IBM+Plex+Sans:400,400i,500
 
 # If you do not use a Google Fonts, uncomment the line below
 # no_google_fonts:     true
@@ -80,7 +82,7 @@ no_mark_external:    true
 # Uncomment this line if want to disable the touch drawer on mobile
 # disable_drawer: true
 
-future: ture
+future: true
 
 # -----------------------------------------------------------------------------
 #  Collections
@@ -121,10 +123,10 @@ exclude:
 
 kramdown:
   footnote_backlink: '&#x21a9;&#xfe0e;'
-  math_engine:       mathjax
-  math_engine_opts:
-    preview:         true
-    preview_as_code: true
+  # math_engine:       mathjax
+  # math_engine_opts:
+  #   preview:         true
+  #   preview_as_code: true
 
 compress_html:
   comments:          ["<!-- ", " -->"]
