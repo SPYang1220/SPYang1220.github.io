@@ -170,7 +170,7 @@ img.dark {
 
 /* Chinese name in Kai-style font */
 .zh-name {
-  font-family: "STKaiti", "KaiTi", "楷体", "STKaiti-Regular", serif;
+  font-family: "KaiTi", "STKaiti", "楷体", "华文楷体", serif !important;
 }
 
 /* Disable external link icon (Hydejack) */
