@@ -169,8 +169,12 @@ img.dark {
 }
 
 /* Chinese name in Kai-style font */
+.page-title .zh-name,
+.page-title.zh-name,
+h1.zh-name,
 .zh-name {
-  font-family: "KaiTi", "STKaiti", "楷体", "华文楷体", serif !important;
+  font-family: "KaiTi", "STKaiti", "楷体", "华文楷体", "STKaiti-Regular", serif !important;
+  font-weight: normal !important;
 }
 
 /* Disable external link icon (Hydejack) */
