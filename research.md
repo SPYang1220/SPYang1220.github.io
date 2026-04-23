@@ -13,7 +13,7 @@ order: 1
         <strong>2. “Portraits of Power: Facial Appearances and the Tacit Domain of Political Selection in China.”</strong>
     </a><br>
     with <a href="https://www.junyanjiang.com/" target="_blank">Junyan Jiang</a>.<br>
-    <strong><em>American Political Science Review</em></strong> (Conditionally Accepted)
+    <strong><em>American Political Science Review</em></strong> (Forthcoming)
 </p>
 
 <div class="abstract">
