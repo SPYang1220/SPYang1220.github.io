@@ -44,18 +44,36 @@ order: 1
     <li>
     <a href="/assets/pdfs/political_fact_extraction_20260305.pdf" target="_blank">
         <strong>“Agentic Framework for Political Biography Extraction.”</strong>
-        </a><br>
-        with 
-        <a href="https://ppa.hku.hk/people/zhu-yifei/" target="_blank">Yifei Zhu</a>, 
-        <a href="https://ppa.hku.hk/people/professor-zhu-jiangnan-%E6%9C%B1%E6%B1%9F%E5%8D%97/" target="_blank">Jiangnan Zhu</a>, 
-        and <a href="https://www.junyanjiang.com/" target="_blank">Junyan Jiang</a>.
-        <div class="abstract">
-            <strong>Abstract:</strong>
-            <p>
-                Producing large-scale political datasets demands extracting structured facts from unstructured sources, traditionally relying on expensive human experts and resisting at-scale automation. This paper develops and evaluates large language model (LLM)-based solutions to this bottleneck, focusing on elite biographies, one consequential class of political facts. We propose a two-stage “Synthesis--Coding” framework: LLM agents first search, filter, and curate evidence from heterogeneous web sources, then map curated inputs into structured records. We validate the framework across Chinese, American, and OECD political elites, benchmarking performance against human baselines using multiple state-of-the-art LLMs. We find that LLM coders match or exceed human experts when given curated inputs, and that agentic synthesis substantially outperforms human collective curation (Wikipedia) in open-web environments. We further identify a systematic bias: directly coding from long, multilingual corpora degrades extraction quality, and demonstrate that the synthesis stage mitigates this bias by compressing evidence into signal-dense representations.
-            </p>
-        </div>
-    </li>
+    </a><br>
+    with
+    <a href="https://ppa.hku.hk/people/zhu-yifei/" target="_blank">Yifei Zhu</a>,
+    <a href="https://ppa.hku.hk/people/professor-zhu-jiangnan-%E6%9C%B1%E6%B1%9F%E5%8D%97/" target="_blank">Jiangnan Zhu</a>,
+    and <a href="https://www.junyanjiang.com/" target="_blank">Junyan Jiang</a>.<br>
+    Revise and resubmit (Research Note), <strong><em>American Journal of Political Science</em></strong>.
+
+    <div class="abstract">
+        <strong>Abstract:</strong>
+        <p>
+            Producing large-scale political datasets demands extracting structured facts from unstructured sources, traditionally relying on expensive human experts and resisting at-scale automation. This paper develops and evaluates large language model (LLM)-based solutions to this bottleneck, focusing on elite biographies, one consequential class of political facts. We propose a two-stage “Synthesis--Coding” framework: LLM agents first search, filter, and curate evidence from heterogeneous web sources, then map curated inputs into structured records. We validate the framework across Chinese, American, and OECD political elites, benchmarking performance against human baselines using multiple state-of-the-art LLMs. We find that LLM coders match or exceed human experts when given curated inputs, and that agentic synthesis substantially outperforms human collective curation (Wikipedia) in open-web environments. We further identify a systematic bias: directly coding from long, multilingual corpora degrades extraction quality, and demonstrate that the synthesis stage mitigates this bias by compressing evidence into signal-dense representations.
+        </p>
+    </div>
+</li>
+
+<li>
+    <a href="/assets/pdfs/KangYang_2026.pdf" target="_blank">
+        <strong>“What Drives Legislative Anger? Multimodal Evidence from South Korea's National Assembly.”</strong>
+    </a><br>
+    with
+    <a href="https://orcid.org/0000-0003-3011-6648" target="_blank">Haejo Kang</a>.<br>
+    <em>Under review.</em>
+
+    <div class="abstract">
+        <strong>Abstract:</strong>
+        <p>
+            Legislative anger is often understood as expressive representation, a signal that legislators passionately defend constituent interests. We argue that partisan blame underpins these displays, especially when parties attack one another over alleged misconduct. Using deep-learning models, we measure vocal and facial anger across 355 hours of plenary debate in South Korea's 20th National Assembly (2016--2020), covering 11,060 speech segments by 247 legislators. We find that anger peaks when legislators discuss scandal, at twice the level of policy debate. Moreover, a quasi-experiment around the impeachment of President Park Geun-hye shows that the same legislators become angrier in opposition and calmer in government. These findings challenge accounts that treat legislative anger primarily as constituency signaling and highlight how partisan blame and institutional position shape emotional expression in legislatures.
+        </p>
+    </div>
+</li>
 
     <li>
         <strong>“The Disciplined Face of Power: Affective Signaling and Hierarchical Rule in China.”</strong><br>
@@ -68,24 +86,12 @@ order: 1
     
     </li>
 
-        <li>
+    <li>
         <strong>“Winners Take All: Performance Targets, Bureaucratic Momentum, and Stratified Economic Growth in China.”</strong><br>
         <div class="abstract">
             <strong>Abstract:</strong>
             <p>
                 Target-based governance systems are a defining feature of state capacity in China and beyond, yet the causal dynamics they trigger beyond immediate incentives remain underexplored. Moving beyond the static "promotion tournament" view, I argue that target fulfillment acts as a critical threshold that generates a "dual momentum"—both material and cognitive—stratifying local development trajectories. Using a regression discontinuity design on data from Chinese cities (2002–2023), I provide causal evidence that barely meeting a GDP target significantly accelerates a locality's subsequent economic growth. I unpack this black box through two distinct mechanisms. First, consistent with a resource allocation logic, success serves as a credible signal that unlocks investment and emboldens officials to ratchet up future aspirations. Second, using automated text analysis, I identify a strategic attribution mechanism: "winners" adopt a technocratic orientation focusing on structural reforms, whereas "losers" engage in blame avoidance by attributing failures to exogenous shocks. Crucially, this momentum is context-dependent: the growth premium is amplified when local agents outperform peers but attenuated when superiors themselves face less performance pressure. These findings reveal how targets generate a cumulative advantage, explaining the strategic stratification of local state capacity in hierarchical bureaucracies.
-            </p>
-        </div>
-    </li>
-
-    <li>
-        <strong>“Spontaneous Outburst or Strategic Signal? Legislative Emotions in South Korea.”</strong><br>
-        with 
-        <a href="https://orcid.org/0000-0003-3011-6648" target="_blank">Haejo Kang</a>.
-        <div class="abstract">
-            <strong>Abstract:</strong>
-            <p>
-               Does electoral accountability shape not only what legislators say, but how they emote? Drawing on variation generated by a mixed-member electoral system, we argue that electoral accountability pressures systematically induce strategic emotional displays in legislative settings. Legislators elected in single-member districts face stronger personal accountability than party-list legislators, incentivizing visible criticism and vigilance as signals of responsiveness. We test this argument using a newly constructed multimodal dataset that integrates automated video-based emotion recognition, legislative transcripts, and biographical metadata for individual legislators, drawn from the full universe of plenary sessions—over 784 sessions (over 1,750 total hours)—of the Korean National Assembly between 2010 and 2025. Emotional expression is measured using an AI-based deep learning model applied to video recordings of parliamentary debates. We find a systematic relationship between electoral institutions and affective performance: legislators elected from single-member districts exhibit higher levels of adversarial emotional expression than proportional-representation (party-list) legislators. Furthermore, among district-elected legislators, those representing more electorally competitive constituencies exhibit higher levels of emotionally charged opposition. Exploiting within-legislator transitions from party-list to district seats, we further show that the same individuals increase their use of emotionally charged opposition as they move to district seats and their accountability conditions change. This within-person shift strengthens a causal interpretation of the relationship between electoral incentives and emotional performance. The paper advances research on democratic accountability by demonstrating how electoral institutions systematically shape emotional performance as a visible feature of legislative behavior, drawing on large-scale multimodal computational evidences.
             </p>
         </div>
     </li>
