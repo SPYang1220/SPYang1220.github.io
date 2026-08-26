@@ -80,7 +80,7 @@ Producing large-scale political datasets requires researchers to recover structu
 
 <article class="academic-paper">
 <h3 class="academic-item-title academic-paper-title">
-<a href="/assets/pdfs/KangYang_2026.pdf" target="_blank">“Performing Opposition: Electoral Accountability and Negative Emotional Displays in Legislatures.”</a>
+<a href="/assets/pdfs/KangYang_2026.pdf" target="_blank">“What Drives Legislative Anger? Multimodal Evidence from South Korea’s National Assembly.”</a>
 </h3>
 <p class="academic-item-meta">
 with <a href="https://orcid.org/0000-0003-3011-6648" target="_blank">Haejo Kang</a>.<br>

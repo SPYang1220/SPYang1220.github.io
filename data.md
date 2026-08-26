@@ -92,7 +92,7 @@ Dispersed and multilingual sources → source-linked evidence synthesis → code
 
 <article class="academic-data-item">
 <h3 class="academic-item-title">Voice, Face, and Legislative Behavior</h3>
-<p>The South Korean National Assembly project combines 355 hours of plenary video, 11,060 speech segments, facial and vocal measures, transcripts, and legislator biographies. The associated paper, <a href="/assets/pdfs/KangYang_2026.pdf" target="_blank"><em>Performing Opposition</em></a>, examines how partisan blame and changes between government and opposition shape emotional expression.</p>
+<p>The South Korean National Assembly project combines 355 hours of plenary video, 11,060 speech segments, facial and vocal measures, transcripts, and legislator biographies. The associated paper, <a href="/assets/pdfs/KangYang_2026.pdf" target="_blank"><em>What Drives Legislative Anger</em></a>, examines how partisan blame and changes between government and opposition shape emotional expression.</p>
 </article>
 
 <article class="academic-data-item">
