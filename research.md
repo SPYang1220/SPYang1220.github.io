@@ -6,93 +6,98 @@ menu: true
 order: 1
 ---
 
+My research examines how political elites are selected, how hierarchical institutions shape their careers and behavior, and how political actors perform authority, conflict, and emotion. I study these questions across authoritarian, democratic, and international institutions. A related methodological agenda develops the data and measurement infrastructure required for comparative research, including longitudinal political biographies, auditable AI-assisted data construction, and multimodal analysis.
+
+For datasets, measurement systems, and platform access, see the [Data page](/data.html).
+
 <h3>Publications</h3>
 
 <p>
-    <a href="/assets/pdfs/JiangYang_Face.pdf" target="_blank">
-        <strong>2. “Portraits of Power: Facial Appearances and the Tacit Domain of Political Selection in China.”</strong>
-    </a><br>
-    with <a href="https://www.junyanjiang.com/" target="_blank">Junyan Jiang</a>.<br>
-    <strong><em>American Political Science Review</em></strong> (Online First)
+<a href="/assets/pdfs/JiangYang_Face.pdf" target="_blank">
+<strong>“Portraits of Power: Facial Appearances and the Tacit Domain of Political Selection in China.”</strong>
+</a><br>
+with <a href="https://www.junyanjiang.com/" target="_blank">Junyan Jiang</a>.<br>
+<strong><em>American Political Science Review</em></strong> (Online First)
 </p>
 
 <div class="abstract">
-    <strong>Abstract:</strong>
-    <p>
-        As the epitome of modern, rational organizations, bureaucracies are often believed to select candidates based on rules and reason. We argue that intuitive-and even instinctive-assessments of candidates' external appearances sometimes underpin seemingly rational and calculated decisions. Using a novel, AI-based algorithm that learns and reproduces human assessments of facial appearances at scale, we examine how perceived facial traits influence the careers of over 4,000 mid- and senior-level Chinese officials.  We find that officials who look more competent, trustworthy, and less aggressive enjoy significantly better promotion prospects and lower purge risk than their peers. Warmth-related traits (e.g., trustworthiness and non-aggressiveness) are especially valued at higher-level promotions and for male candidates. Additional analyses, including conjoint experiments with real officials, demonstrate that appearances' influence over selection preferences is comparable to performance or political connections. These findings challenge the prevailing meritocratic and relation-based theories of bureaucratic selection and highlight the role of impressions in the workings of government institutions.
-    </p>
+<strong>Abstract:</strong>
+<p>
+Modern bureaucracies are commonly assumed to select personnel through rules, credentials, and performance. We argue that intuitive assessments of candidates' facial appearance can also enter political selection. Using an AI-based measure trained to reproduce human evaluations, we link perceived facial traits to the careers of more than 4,000 mid- and senior-level Chinese officials. Officials perceived as more competent and trustworthy and less aggressive have better promotion prospects and lower purge risk; warmth-related traits are especially valued in higher-level promotions and among male candidates. Conjoint experiments using real officials show that appearance-based impressions can be comparable in magnitude to performance and political connections. The findings identify a tacit domain of bureaucratic selection that complements meritocratic and network-based accounts.
+</p>
 </div>
 
 <p>
-    <a href="/assets/pdfs/INTA99_4_LiuYang.pdf" target="_blank">
-        <strong>1. “China and the Liberal International Order: A Pragmatic and Dynamic Approach.”</strong>
-    </a><br>
-    with <a href="https://sir.uibe.edu.cn/english/faculty/international/70293.htm" target="_blank">Ruonan Liu</a>. (2023).<br>
-    <em><strong>International Affairs</strong></em>, Vol. 99, No. 4, pp. 1383–1400.
+<a href="/assets/pdfs/INTA99_4_LiuYang.pdf" target="_blank">
+<strong>“China and the Liberal International Order: A Pragmatic and Dynamic Approach.”</strong>
+</a><br>
+with <a href="https://sir.uibe.edu.cn/english/faculty/international/70293.htm" target="_blank">Ruonan Liu</a>. (2023).<br>
+<em><strong>International Affairs</strong></em>, Vol. 99, No. 4, pp. 1383–1400.
 </p>
 
 <div class="abstract">
-    <strong>Abstract:</strong>
-    <p>
-        How can we make sense of China’s perceptions of and relationship with the liberal international order (LIO)? The majority of notable works on this topic have been written by foreign scholars who emphasize China’s discontent with, or challenges it poses to, the LIO, while Chinese scholars have either focused solely on academic debates or attempted to interpret official foreign policies. This article aims to provide a balanced analysis of China’s view of order by examining theoretical thought and policy practices from a Chinese perspective, drawing insights from both Chinese academic writings and government statements. We argue that there exists a perceptual difference between China and the West in understanding the postwar international order, with China emphasizing the functional part of the order and the West regarding it as based on its preferred ideological values. This perceptual difference has caused international suspicion about China’s potential intentions to overthrow the LIO. In practice, China’s approach has remained pragmatic, interacting dynamically with different subcomponents of the LIO. Although China’s recent interactions with the LIO appear more ambitious, internal and external constraints, insufficient capacity, and lack of universally appealing values are preventing the birth of a Chinese version of international order.
-    </p>
+<strong>Abstract:</strong>
+<p>
+How should we understand China's relationship with the liberal international order? Drawing on Chinese academic debates and government statements, we argue that China and Western states often understand the postwar order differently: Chinese discourse emphasizes its functional institutions, whereas Western accounts more often connect the order to liberal political values. This perceptual gap fuels suspicion that China seeks to overturn the existing order. In practice, however, China's engagement has remained selective and pragmatic, varying across the order's institutional components. Although China has become more ambitious, domestic constraints, limited capacity, and the absence of a broadly attractive alternative continue to restrict the emergence of a distinct Chinese-led order.
+</p>
+</div>
+
+<h3>Papers Under Review</h3>
+
+<p>
+<a href="/assets/pdfs/political_fact_extraction_20260305.pdf" target="_blank">
+<strong>“Agentic Framework for Political Biography Extraction.”</strong>
+</a><br>
+with <a href="https://ppa.hku.hk/people/zhu-yifei/" target="_blank">Yifei Zhu</a>, <a href="https://ppa.hku.hk/people/professor-zhu-jiangnan-%E6%9C%B1%E6%B1%9F%E5%8D%97/" target="_blank">Jiangnan Zhu</a>, and <a href="https://www.junyanjiang.com/" target="_blank">Junyan Jiang</a>.<br>
+Revise and resubmit (Research Note), <strong><em>American Journal of Political Science</em></strong>.
+</p>
+
+<div class="abstract">
+<strong>Abstract:</strong>
+<p>
+Producing large-scale political datasets requires researchers to recover structured facts from fragmented and unevenly documented sources. We develop a two-stage synthesis-and-coding framework in which LLM agents first search, filter, and organize source-linked evidence and then map the curated material into structured records. Across Chinese, American, and OECD political elites, we benchmark the system against human-curated and human-coded baselines. LLM coders match or exceed human performance when given curated inputs, while agentic synthesis improves coverage in open-web settings. Direct coding from long, multilingual corpora performs substantially worse, demonstrating that extraction quality depends on how evidence is selected and represented. The results shift attention from model choice alone to the architecture of the full data-production system.
+</p>
+</div>
+
+<p>
+<a href="/assets/pdfs/KangYang_2026.pdf" target="_blank">
+<strong>“Performing Opposition: Electoral Accountability and Negative Emotional Displays in Legislatures.”</strong>
+</a><br>
+with <a href="https://orcid.org/0000-0003-3011-6648" target="_blank">Haejo Kang</a>.<br>
+<em>Under review.</em>
+</p>
+
+<div class="abstract">
+<strong>Abstract:</strong>
+<p>
+Legislative anger is often understood as expressive representation: a signal that legislators passionately defend constituent interests. We argue instead that anger is an instrument of partisan contest, especially when parties can blame one another for scandal or misconduct. Using deep-learning models, we measure vocal and facial anger across 355 hours of plenary debate in South Korea's 20th National Assembly, covering 11,060 speech segments by 247 legislators. Anger is highest in scandal-related debate. A quasi-experiment around the impeachment of President Park Geun-hye further shows that the same legislators become angrier in opposition and calmer in government. These findings challenge constituency-centered accounts and show how partisan blame and institutional position shape emotional expression in legislatures.
+</p>
 </div>
 
 <h3>Working Papers</h3>
 
-<ul>
-    <li>
-    <a href="/assets/pdfs/political_fact_extraction_20260305.pdf" target="_blank">
-        <strong>“Agentic Framework for Political Biography Extraction.”</strong>
-    </a><br>
-    with
-    <a href="https://ppa.hku.hk/people/zhu-yifei/" target="_blank">Yifei Zhu</a>,
-    <a href="https://ppa.hku.hk/people/professor-zhu-jiangnan-%E6%9C%B1%E6%B1%9F%E5%8D%97/" target="_blank">Jiangnan Zhu</a>,
-    and <a href="https://www.junyanjiang.com/" target="_blank">Junyan Jiang</a>.<br>
-    Revise and resubmit (Research Note), <strong><em>American Journal of Political Science</em></strong>.
+<p>
+<strong>“The Disciplined Face of Power: Affective Signaling and Hierarchical Rule in China.”</strong><br>
+<em>Independent project in development.</em>
+</p>
 
-    <div class="abstract">
-        <strong>Abstract:</strong>
-        <p>
-            Producing large-scale political datasets demands extracting structured facts from unstructured sources, traditionally relying on expensive human experts and resisting at-scale automation. This paper develops and evaluates large language model (LLM)-based solutions to this bottleneck, focusing on elite biographies, one consequential class of political facts. We propose a two-stage “Synthesis--Coding” framework: LLM agents first search, filter, and curate evidence from heterogeneous web sources, then map curated inputs into structured records. We validate the framework across Chinese, American, and OECD political elites, benchmarking performance against human baselines using multiple state-of-the-art LLMs. We find that LLM coders match or exceed human experts when given curated inputs, and that agentic synthesis substantially outperforms human collective curation (Wikipedia) in open-web environments. We further identify a systematic bias: directly coding from long, multilingual corpora degrades extraction quality, and demonstrate that the synthesis stage mitigates this bias by compressing evidence into signal-dense representations.
-        </p>
-    </div>
-</li>
+<!-- When the manuscript is ready for circulation, the status line above can be changed to: <em>Job Market Paper.</em> -->
 
-<li>
-    <a href="/assets/pdfs/KangYang_2026.pdf" target="_blank">
-        <strong>“What Drives Legislative Anger? Multimodal Evidence from South Korea's National Assembly.”</strong>
-    </a><br>
-    with
-    <a href="https://orcid.org/0000-0003-3011-6648" target="_blank">Haejo Kang</a>.<br>
-    <em>Under review.</em>
+<div class="abstract">
+<strong>Abstract:</strong>
+<p>
+This project develops a theory of bureaucratic affect: the informal norms that govern how officials display emotion within hierarchical organizations. Such norms may help political principals evaluate effort, reliability, and conformity when direct information is limited. I analyze an original dataset of more than 20,000 video appearances of Chinese officials to test whether political rank and institutional role systematically shape calmness, stress, and other forms of facial affect, and whether conformity to these display norms predicts career trajectories. By focusing on dynamic behavior rather than static credentials or formal rules, the project identifies a behavioral dimension of hierarchical governance and elite control.
+</p>
+</div>
 
-    <div class="abstract">
-        <strong>Abstract:</strong>
-        <p>
-            Legislative anger is often understood as expressive representation, a signal that legislators passionately defend constituent interests. We argue that partisan blame underpins these displays, especially when parties attack one another over alleged misconduct. Using deep-learning models, we measure vocal and facial anger across 355 hours of plenary debate in South Korea's 20th National Assembly (2016--2020), covering 11,060 speech segments by 247 legislators. We find that anger peaks when legislators discuss scandal, at twice the level of policy debate. Moreover, a quasi-experiment around the impeachment of President Park Geun-hye shows that the same legislators become angrier in opposition and calmer in government. These findings challenge accounts that treat legislative anger primarily as constituency signaling and highlight how partisan blame and institutional position shape emotional expression in legislatures.
-        </p>
-    </div>
-</li>
+<p>
+<strong>“Winners Take All: Performance Targets, Bureaucratic Momentum, and Stratified Economic Growth in China.”</strong><br>
+<em>Working paper.</em>
+</p>
 
-    <li>
-        <strong>“The Disciplined Face of Power: Affective Signaling and Hierarchical Rule in China.”</strong><br>
-        <div class="abstract">
-            <strong>Abstract:</strong>
-            <p>
-                Existing theories of authoritarian durability focus on formal institutions of control, such as personnel management and propaganda, largely overlooking the informal behavioral norms that sustain elite cohesion. This paper argues that authoritarian control is sustained, in part, through a pervasive regime of “bureaucratic affect”—a set of unwritten yet strictly enforced norms governing the emotional expressions of political elites. We posit that these affective norms solve a critical principal-agent problem: emotional discipline serves as a credible signal of an official’s effort, reliability, and political conformity within an information-scarce hierarchy. To test this theory, I apply deep learning to an original dataset of over 20,000 video appearances of Chinese officials. My findings reveal a clear affective hierarchy consistent with a principal-agent dynamic. First, higher-ranking officials (principals) consistently display greater emotional calmness, embodying the "face of the state." Second, lower-ranking officials (agents) strategically display context-appropriate emotions—such as greater stress in high-pressure roles—to signal their effort and diligence. Finally, preliminary analysis shows that mastering this affective signaling correlates with positive career trajectories, suggesting it is a rewarded, informal criterion for political survival. These findings reveal a critical micro-foundation of hierarchical political control, demonstrating how affective regulation enhances state capacity and elite cohesion.
-            </p>
-        </div>
-    
-    </li>
-
-    <li>
-        <strong>“Winners Take All: Performance Targets, Bureaucratic Momentum, and Stratified Economic Growth in China.”</strong><br>
-        <div class="abstract">
-            <strong>Abstract:</strong>
-            <p>
-                Target-based governance systems are a defining feature of state capacity in China and beyond, yet the causal dynamics they trigger beyond immediate incentives remain underexplored. Moving beyond the static "promotion tournament" view, I argue that target fulfillment acts as a critical threshold that generates a "dual momentum"—both material and cognitive—stratifying local development trajectories. Using a regression discontinuity design on data from Chinese cities (2002–2023), I provide causal evidence that barely meeting a GDP target significantly accelerates a locality's subsequent economic growth. I unpack this black box through two distinct mechanisms. First, consistent with a resource allocation logic, success serves as a credible signal that unlocks investment and emboldens officials to ratchet up future aspirations. Second, using automated text analysis, I identify a strategic attribution mechanism: "winners" adopt a technocratic orientation focusing on structural reforms, whereas "losers" engage in blame avoidance by attributing failures to exogenous shocks. Crucially, this momentum is context-dependent: the growth premium is amplified when local agents outperform peers but attenuated when superiors themselves face less performance pressure. These findings reveal how targets generate a cumulative advantage, explaining the strategic stratification of local state capacity in hierarchical bureaucracies.
-            </p>
-        </div>
-    </li>
-</ul>
+<div class="abstract">
+<strong>Abstract:</strong>
+<p>
+Target-based governance is a central feature of state capacity in China and beyond, yet research has focused mainly on the immediate incentives created by targets. This project examines whether barely meeting a GDP growth target changes a locality's subsequent development trajectory. Using city-level data from 2002 to 2023 and a regression-discontinuity design around the target threshold, I study whether target fulfillment generates material and cognitive momentum through greater investment, more ambitious future targets, and changes in how officials explain success and failure. The project connects performance management to cumulative advantage, asking how small differences in bureaucratic evaluation may produce increasingly unequal local growth paths.
+</p>
+</div>
