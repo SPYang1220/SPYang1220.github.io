@@ -879,3 +879,133 @@ body.dark .data-pillar-card {
     transition: none;
   }
 }
+/* ------------------------------------------------------------
+   Shared heading hierarchy for Research and Data pages
+   Append this block to assets/css/drcustom.css
+   ------------------------------------------------------------ */
+
+.academic-page {
+  --academic-accent: #2072cfab;
+  --academic-rule: rgba(127, 127, 127, 0.22);
+  --academic-soft-rule: rgba(127, 127, 127, 0.14);
+}
+
+.academic-page .academic-intro {
+  margin-bottom: 2.85rem;
+}
+
+.academic-page .academic-intro p:last-child {
+  margin-bottom: 0;
+}
+
+.academic-page .academic-section + .academic-section {
+  margin-top: 3.15rem;
+  padding-top: 2.45rem;
+  border-top: 1px solid var(--academic-rule);
+}
+
+.academic-page .academic-section-header {
+  margin-bottom: 1.45rem;
+}
+
+.academic-page .academic-section-kicker {
+  margin: 0 0 0.3rem;
+  color: var(--academic-accent);
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.11em;
+  line-height: 1.2;
+  text-transform: uppercase;
+}
+
+.academic-page .academic-section-title {
+  margin: 0;
+  padding-left: 0.78rem;
+  border-left: 3px solid var(--academic-accent);
+  color: inherit;
+  font-size: 1.38rem;
+  font-weight: 700;
+  letter-spacing: -0.015em;
+  line-height: 1.28;
+}
+
+.academic-page .academic-section-intro {
+  margin: 0.9rem 0 0;
+  max-width: 72ch;
+}
+
+.academic-page .academic-item-title {
+  margin: 0 0 0.22rem;
+  color: inherit;
+  font-size: 1.04rem;
+  font-weight: 700;
+  letter-spacing: -0.005em;
+  line-height: 1.38;
+}
+
+.academic-page .academic-item-title a {
+  font-weight: 700;
+}
+
+.academic-page .academic-item-meta {
+  margin: 0 0 0.72rem;
+}
+
+.academic-page .academic-paper + .academic-paper {
+  margin-top: 2.15rem;
+}
+
+.academic-page .academic-paper .abstract {
+  margin-top: 0.72rem;
+}
+
+/* Data entries use a restrained blue guide rather than a card. */
+.academic-page .academic-item-list {
+  margin-top: 1.25rem;
+}
+
+.academic-page .academic-data-item {
+  padding-left: 0.9rem;
+  border-left: 2px solid rgba(32, 114, 207, 0.24);
+}
+
+.academic-page .academic-data-item + .academic-data-item {
+  margin-top: 1.35rem;
+}
+
+.academic-page .academic-data-item p {
+  margin: 0.18rem 0 0;
+}
+
+.academic-page .academic-section-note {
+  margin-top: 1.4rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--academic-soft-rule);
+}
+
+.academic-page .academic-flow {
+  margin: 1.35rem 0 1.55rem;
+  padding: 0.85rem 1rem;
+  border-left: 3px solid rgba(32, 114, 207, 0.42);
+  background: rgba(127, 127, 127, 0.055);
+  font-size: 0.94rem;
+}
+
+.academic-page .academic-link-list {
+  margin-top: 0.75rem;
+}
+
+@media (max-width: 600px) {
+  .academic-page .academic-intro {
+    margin-bottom: 2.35rem;
+  }
+
+  .academic-page .academic-section + .academic-section {
+    margin-top: 2.65rem;
+    padding-top: 2.05rem;
+  }
+
+  .academic-page .academic-section-title {
+    font-size: 1.24rem;
+  }
+}
