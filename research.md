@@ -102,7 +102,7 @@ Legislative anger is often understood as expressive representation: a signal tha
 <h2 class="academic-section-title" id="working-title">Working Papers</h2>
 </header>
 
-<article class="academic-paper">
+<!-- <article class="academic-paper">
 <h3 class="academic-item-title academic-paper-title">“The Disciplined Face of Power: Affective Signaling and Hierarchical Rule in China.”</h3>
 <p class="academic-item-meta"><em>Independent project in development.</em></p>
 
@@ -114,7 +114,7 @@ Legislative anger is often understood as expressive representation: a signal tha
 This project develops a theory of bureaucratic affect: the informal norms that govern how officials display emotion within hierarchical organizations. Such norms may help political principals evaluate effort, reliability, and conformity when direct information is limited. I analyze an original dataset of more than 20,000 video appearances of Chinese officials to test whether political rank and institutional role systematically shape calmness, stress, and other forms of facial affect, and whether conformity to these display norms predicts career trajectories. By focusing on dynamic behavior rather than static credentials or formal rules, the project identifies a behavioral dimension of hierarchical governance and elite control.
 </p>
 </div>
-</article>
+</article> -->
 
 <article class="academic-paper">
 <h3 class="academic-item-title academic-paper-title">“Winners Take All: Performance Targets, Bureaucratic Momentum, and Stratified Economic Growth in China.”</h3>
