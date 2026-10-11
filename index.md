@@ -22,11 +22,11 @@ with <a href="https://www.junyanjiang.com/" target="_blank">Junyan Jiang</a>.<br
 This article shows that intuitive assessments of facial appearance enter ostensibly rational processes of bureaucratic selection. Linking official portraits to the careers of more than 4,000 Chinese officials, we find that perceived competence, trustworthiness, and non-aggressiveness predict promotion and lower purge risk.
 </p> -->
 
-<p>
+<!-- <p>
 <strong>“The Disciplined Face of Power: Affective Signaling and Hierarchical Rule in China.”</strong><br>
 <em>Independent project in development.</em><br>
 This project develops a theory of bureaucratic affect: the informal norms that govern how officials display calmness, stress, and emotion within political hierarchies. It draws on more than 20,000 video appearances of Chinese officials to study how authority and effort are behaviorally signaled and rewarded.
-</p>
+</p> -->
 
 <!-- When the manuscript is ready for circulation, the status line above can be changed to: <em>Job Market Paper.</em> -->
 
