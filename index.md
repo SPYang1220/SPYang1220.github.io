@@ -15,12 +15,12 @@ I received my PhD in political science from the [Department of International Rel
 
 <h3>Featured Research</h3>
 
-<p>
+<!-- <p>
 <a href="/assets/pdfs/JiangYang_Face.pdf" target="_blank"><strong>“Portraits of Power: Facial Appearances and the Tacit Domain of Political Selection in China.”</strong></a><br>
 with <a href="https://www.junyanjiang.com/" target="_blank">Junyan Jiang</a>.<br>
 <strong><em>American Political Science Review</em></strong> (Online First)<br>
 This article shows that intuitive assessments of facial appearance enter ostensibly rational processes of bureaucratic selection. Linking official portraits to the careers of more than 4,000 Chinese officials, we find that perceived competence, trustworthiness, and non-aggressiveness predict promotion and lower purge risk.
-</p>
+</p> -->
 
 <p>
 <strong>“The Disciplined Face of Power: Affective Signaling and Hierarchical Rule in China.”</strong><br>

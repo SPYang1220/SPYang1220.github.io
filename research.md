@@ -20,7 +20,7 @@ order: 1
 <h2 class="academic-section-title" id="publications-title">Publications</h2>
 </header>
 
-<article class="academic-paper">
+<!-- <article class="academic-paper">
 <h3 class="academic-item-title academic-paper-title">
 <a href="/assets/pdfs/JiangYang_Face.pdf" target="_blank">“Portraits of Power: Facial Appearances and the Tacit Domain of Political Selection in China.”</a>
 </h3>
@@ -35,7 +35,7 @@ with <a href="https://www.junyanjiang.com/" target="_blank">Junyan Jiang</a>.<br
 Modern bureaucracies are commonly assumed to select personnel through rules, credentials, and performance. We argue that intuitive assessments of candidates' facial appearance can also enter political selection. Using an AI-based measure trained to reproduce human evaluations, we link perceived facial traits to the careers of more than 4,000 mid- and senior-level Chinese officials. Officials perceived as more competent and trustworthy and less aggressive have better promotion prospects and lower purge risk; warmth-related traits are especially valued in higher-level promotions and among male candidates. Conjoint experiments using real officials show that appearance-based impressions can be comparable in magnitude to performance and political connections. The findings identify a tacit domain of bureaucratic selection that complements meritocratic and network-based accounts.
 </p>
 </div>
-</article>
+</article> -->
 
 <article class="academic-paper">
 <h3 class="academic-item-title academic-paper-title">
