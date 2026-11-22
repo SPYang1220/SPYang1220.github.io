@@ -37,6 +37,13 @@ Revise and resubmit (Research Note), <strong><em>American Journal of Political S
 This project develops and evaluates an auditable synthesis-and-coding framework for turning fragmented, multilingual sources into structured political biographies. It shows that data quality depends on the full evidence-production system, not only on the underlying language model.
 </p>
 
+<p>
+<a href="/assets/pdfs/KangYang_2026.pdf" target="_blank" rel="noopener"><strong>“What Drives Legislative Anger? Multimodal Evidence from South Korea’s National Assembly.”</strong></a><br>
+with <a href="https://orcid.org/0000-0003-3011-6648" target="_blank" rel="noopener">Haejo Kang</a>.<br>
+Revise and resubmit, <strong><em>American Journal of Political Science</em></strong>.<br>
+Using 355 hours of South Korean legislative debate, we measure anger in lawmakers’ voices and facial expressions. Anger peaks during scandal debates, and after President Park Geun-hye’s impeachment and the subsequent change in government, the same lawmakers sound angrier in opposition and calmer in government.
+</p>
+
 [View all research →](/research.html) &nbsp;&nbsp; [Explore data and methods →](/data.html)
 
 <h3>Connect</h3>
