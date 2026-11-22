@@ -84,7 +84,7 @@ Producing large-scale political datasets requires researchers to recover structu
 </h3>
 <p class="academic-item-meta">
 with <a href="https://orcid.org/0000-0003-3011-6648" target="_blank">Haejo Kang</a>.<br>
-<em>Under review.</em>
+Revise and resubmit, <strong><em>American Journal of Political Science</em></strong>.
 </p>
 
 <div class="abstract">
