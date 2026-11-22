@@ -102,11 +102,13 @@ Legislative anger is often understood as expressive representation: a signal tha
 <h2 class="academic-section-title" id="working-title">Working Papers</h2>
 </header>
 
-<!-- <article class="academic-paper">
-<h3 class="academic-item-title academic-paper-title">“The Disciplined Face of Power: Affective Signaling and Hierarchical Rule in China.”</h3>
-<p class="academic-item-meta"><em>Independent project in development.</em></p>
-
-<!-- When the manuscript is ready for circulation, the status line above can be changed to: <em>Job Market Paper.</em> -->
+<article class="academic-paper">
+  <h3 class="academic-item-title academic-paper-title">
+    The Disciplined Face of Power: Affective Signaling and Hierarchical Rule in China.
+  </h3>
+  <p class="academic-item-meta"><em>Independent project in development.</em></p>
+  <!-- When the manuscript is ready for circulation, the status line above can be changed to: <em>Job Market Paper.</em> -->
+</article>
 
 <div class="abstract">
 <strong>Abstract:</strong>
